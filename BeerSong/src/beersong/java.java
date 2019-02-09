@@ -14,8 +14,16 @@ public class java {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main() {
         // TODO code application logic here
+        
+        
+    }
+    
+    public static void 	Ninety_Nine_Bottles_of_Beer() {
+        // TODO code application logic here
+        
+        
     }
     
 }
